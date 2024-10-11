@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ae9a5ab-2aa5-429b-9202-46de4460e638" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DanakAcademy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/templates/Tutorials.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/templates/about_us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/templates/contact_us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/assets/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/conditionals/apple-webkit.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/conditionals/e-swiper.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/frontend-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-counter-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-heading-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-icon-list-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-image-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-social-icons-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/css/widget-text-editor-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/digbuilder_css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/digbuilder_css/builder.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/js/counter.02cef29c589e742d4c8c.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/js/frontend-modules.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/js/frontend.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/js/webpack.runtime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/animations/e-animation-pop.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/dialog/dialog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/eicons/css/elementor-icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/flatpickr/flatpickr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/font-awesome/js/v4-shims.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/jquery-numerator/jquery-numerator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanakAcademy/static/lib/swiper_v8_css/swiper.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DanakAcademy/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DanakAcademy/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DanakAcademy/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DanakAcademy/shop/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +29,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Python(Modhej)/DanakAcademy/DanakAcademy/static/assets&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -146,7 +107,11 @@
       <workItem from="1728491010435" duration="89000" />
       <workItem from="1728491143037" duration="1091000" />
       <workItem from="1728492379506" duration="188000" />
-      <workItem from="1728492648683" duration="2940000" />
+      <workItem from="1728492648683" duration="4297000" />
+      <workItem from="1728578919661" duration="688000" />
+      <workItem from="1728629572865" duration="423000" />
+      <workItem from="1728650648977" duration="100000" />
+      <workItem from="1728650805199" duration="398000" />
     </task>
     <servers />
   </component>
@@ -179,7 +144,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
